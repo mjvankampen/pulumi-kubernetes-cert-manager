@@ -884,7 +884,7 @@
             },
             "packageReferences": {
                 "Pulumi": "3.*",
-                "Pulumi.Kubernetes": "3.*"
+                "Pulumi.Kubernetes": "[3,4]"
             }
         },
         "go": {
